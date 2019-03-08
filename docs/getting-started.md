@@ -35,4 +35,10 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-Hello, I study github. github is maked very well. 
+Hello, I study github. github is maked very well.
+
+getting start github!
+
+first you read a README.md !!
+
+Go !!
