@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+Probot tutorial!!
 
 ## What it does
 
-FEATURES PLACEHOLDER
+learning github
 
 ## Getting started
 
